@@ -1,2 +1,2 @@
-# github learning
+# Github learning
 Adding information about myself.
